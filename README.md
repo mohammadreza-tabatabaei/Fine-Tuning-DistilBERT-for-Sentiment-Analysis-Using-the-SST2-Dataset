@@ -1,4 +1,4 @@
-# Fine-Tuning DistilBERT for Sentiment Analysis Using the SST2 Dataset
+# Sentiment Analysis with DistilBERT and the SST-2 Dataset using Transfer Learning
 
 This project demonstrates how to fine-tune the pre-trained **DistilBERT** model for sentiment analysis on the **SST2** dataset. The model is fine-tuned using the **TensorFlow** framework, and the goal is to classify sentences into positive or negative sentiments.
 
